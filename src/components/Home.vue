@@ -38,8 +38,8 @@ import axios from "axios";
 export default {
   data() {
     return {
-      headerImage: "https://github.com/enrique-ochoa/mslearn-aks-workshop-ratings-web/static/img/fruits/smoothies.jpeg",
-      subtitle: "Fruit Smoothies",
+      headerImage: "/static/img/fruits/smoothies.jpeg",
+      subtitle: "Fruit Smoothies - Project Homepage",
       errors: []
     };
   },
