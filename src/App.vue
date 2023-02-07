@@ -205,7 +205,7 @@ h4 {
 }
 
 .super-image {
-  -webkit-filter: drop-shadow(30px 30px 30px #111);
+  -webkit-filter: drop-shadow(3px 3px 3px #111);
   filter: drop-shadow(3px 3px 3px #111);
   width: 100%;
 }
